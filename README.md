@@ -1,2 +1,2 @@
 # test_go
-testing gin
+gin demo
